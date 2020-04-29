@@ -11,6 +11,7 @@ public class Hola_mundo_git {
         b = 5;
         result = a + b;
         //Comentario para git.
+        //Comentario escrito en VSc.
         JOptionPane.showMessageDialog(null, "La suma es: " + result);
         System.out.println("Fin del programa!!");
     }
