@@ -10,6 +10,7 @@ public class Hola_mundo_git {
         a = 3;
         b = 5;
         result = a + b;
+        //Comentario para git.
         JOptionPane.showMessageDialog(null, "La suma es: " + result);
         System.out.println("Fin del programa!!");
     }
